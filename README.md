@@ -6,9 +6,8 @@
 
 ## Rapid Fire
 
-- 🔨 I'm currently working on: **MEGA-BASIC** — a programming language with custom syntax written in Rust
+- 🔨 I'm currently working on creating a programming language with custom syntax written in Rust
 - 🌱 I'm currently learning: **Rust**, interpreters & compilers
-- 💬 Ask me about: **Rust, Pratt Parsers, how to build your own language**
 - 🦀 Fun fact: My language supports Emoji and Crab 🦀 syntax dialects
 
 ---
@@ -21,7 +20,7 @@
 
 ## 📌 Featured Project
 
-### 🧠 [MEGA-BASIC — Interpreter with Custom Syntax](https://github.com/XsamuraiX228/MEGA-BASIC-WITH-CUSTOM-SYNTAX)
+### 🧠 [Interpreter with Custom Syntax](https://github.com/XsamuraiX228/Programming-Language-with-Custom-Syntax/tree/main/src)
 
 > A toy programming language interpreter built from scratch in Rust.  
 > Write code in English, Russian, Emoji or Crab 🦀 — it all runs the same way.
