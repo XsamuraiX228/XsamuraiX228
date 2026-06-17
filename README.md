@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=rust,python,cpp,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,python,cpp)](https://skillicons.dev)
 
 ---
 
